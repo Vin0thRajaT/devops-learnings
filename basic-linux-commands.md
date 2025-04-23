@@ -4,7 +4,7 @@
 
 - **Purpose:** List files with details
 
-- **Example:** `ls -al`
+- **Example:** `ls -lah`
 
 ## cd
 
