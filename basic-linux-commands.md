@@ -269,9 +269,3 @@
 - **Purpose:** Query systemd logs
 
 - **Example:** `journalctl -u nginx`
-
-## docker
-
-- **Purpose:** Container management
-
-- **Example:** `docker ps`
